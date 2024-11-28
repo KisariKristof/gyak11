@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-WebUserControl1",
+      "appliesTo": "WebUserControl1.ascx",
+      "type": "launch"
+    }
+  ]
+}
